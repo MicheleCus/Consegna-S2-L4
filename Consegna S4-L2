@@ -4,4 +4,5 @@ uscire dal gioco; scegliendo la B si esce direttamente dal gioco.
 
 B) Il programma termina direttamente.
 
-C) Il programma termina direttamente in quanto abbiamo inserito più caratteri di quelli dichiarati nell'array.
+C) Inserendo più caratteri di quelli dichiarati nell'array il programma entra in uno stato di overflow, 
+quindi termina direttamente.
