@@ -1,0 +1,7 @@
+A) Il programma inizia con la scelta tra due opzioni, scelta A e B, scegliendo la A iniza la partita dove vengono 
+susseguite varie domande, una volta terminata la partita posso scegliere se inizane una nuova oppure se 
+uscire dal gioco; scegliendo la B si esce direttamente dal gioco.
+
+B) Il programma termina direttamente.
+
+C) Il programma termina direttamente in quanto abbiamo inserito più caratteri di quelli dichiarati nell'array.
